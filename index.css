@@ -1,0 +1,56 @@
+.navbar-default{
+  background-color: #2B3338;
+  border-color: #2B3338;
+}
+.nav.navbar-nav.navbar-right li a {
+  color: rgb(65, 135, 196)
+}
+#name {
+  color: rgb(65, 135, 196)
+}
+.blue-font{
+  color : rgb(65, 135, 196)
+}
+.gray-font{
+  color:rgb(163, 171, 174)
+}
+
+.gray-background{
+  background-color: #2B3338
+}
+
+.big-font{
+  font-size: 25px
+}
+
+p{
+  margin:25px 0px 25px 0px
+}
+
+h3{
+  font-size:40px;
+}
+
+.small-image{
+  max-width:100px
+}
+
+.large-image{
+  max-width:300px
+}
+
+.large-image-margin{
+  margin:75px 25px 25px 25px
+}
+
+.image-margin{
+  margin:30px 30px 30px 30px
+}
+
+.list-margin{
+  margin:25px 25px 25px 100px
+}
+
+.project-margin{
+  margin:0px 0px 75px 0px
+}
